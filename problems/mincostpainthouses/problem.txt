@@ -1,0 +1,19 @@
+Minimum Cost to Paint all Houses with No Adjacent Houses have Same Color
+
+Problem statement:
+There are N houses. The amount to color each house with Red, Green, Blue colors is given. Write a program to find the minimum amount to paint all houses such that no 2 adjacent houses have the same color.
+
+The difficulty level to this problem is moderate.
+
+Example:
+Input:
+N = 3
+Red = [6, 5, 3]
+Green = [3, 1, 6]
+Blue = [9, 4, 2]
+
+Output:
+9
+
+Explanation:
+We get the minimum cost of painting all houses when we paint the first house with the color Red (6), the second house with the color Green (1), and the third house with the color Blue (2). So the total minimum cost to paint all houses is 9 (6+1+2).

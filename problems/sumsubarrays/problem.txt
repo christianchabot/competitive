@@ -1,0 +1,13 @@
+Sum of Sub-arrays
+
+An array X consists of N elements. You are given an integer K.
+
+Write a program to find the sum of the lengths of the sub-arrays with K as its maximum number. Any two sub-arrays that are considered should not overlap each other. Find the maximum possible sum.
+
+Input format:
+First line: T (number of test cases)
+First line: N, and K
+Second line: N space-separated integers (denoting the elements of the array)
+
+Output format:
+For each test case, print the maximum sum.

@@ -1,0 +1,13 @@
+Program to Remove All Duplicates Chars from a given String in Python
+
+Problem Statement:
+You have a given string. You need to remove all the duplicates from the string.
+The final output string should contain each character only once. The respective order of the characters inside the string should remain the same.
+You can only traverse the string at once.
+
+Example:
+Input string: ababacd
+Output string abcd
+
+You can use any programming language like C/C++, Java, Python, or anything you are comfortable with...
+

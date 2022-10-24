@@ -1,0 +1,4 @@
+Ordering Task/Packages from Given Dependencies
+
+Problem statement:
+A project is currently having issues with some of their libraries where packages are not being built in the correct order. You have been tasked to build a program that will ensure their packages are built correctly. You are given a list of packages to build and an array of dependencies where [Pi, Pj] indicates that you must build package Pi first if you want to build Pj. Return the correct build order for the given list of packages.

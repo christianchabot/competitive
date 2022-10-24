@@ -1,0 +1,16 @@
+Maximum Sum of Hourglass in Matrix
+
+1 1 1 0 0 0
+0 1 0 0 0 0
+1 1 1 0 0 0
+0 0 2 4 4 0
+0 0 0 2 0 0
+0 0 1 2 4 0
+
+There can be multiple hourglasses in the 2D array.
+
+Problem Statement:
+Write a Python program to find the maximum sum of hourglass in matrix in Python and Java.
+
+Explanation:
+Solving this problem includes finding all the hourglass and calculating the sum of every hourglass.

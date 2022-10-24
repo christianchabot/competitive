@@ -1,0 +1,18 @@
+How to Find Next Greater Number with Same Set of Digits in C?
+
+This is a quiz question as well as asked in many placement interviews to write code to find next greater number with the same set of digits of a given number.
+
+Problem Statement:
+You have given a number. You have to find out next greater number to given number with the same set of digits.
+
+For Example:
+Input: 102
+Output: 120
+
+Input: 523
+Output: 532
+
+Input: 405
+Output: 450
+
+It is a tricky question. Logic is all about rearranging digits in the given number and finding the next greater number.

@@ -1,0 +1,24 @@
+Maximum Average Sum of Two Subsequences of Array
+
+Problem statement:
+Write a program to find the maximum sum of the average of two subsequences of the array of integer types.
+
+Example:
+Input: 50, 40, 30, 20
+Output: 80
+
+We can create two subsequences in different ways.
+
+Case 1:
+Subsequences are [50, 40] and [30, 10].
+The average of the first subsequence is (50+40)/2=45
+The average of the second subsequence is (30+20)/2=25.
+The sum of the two averages is 45+25=70.
+
+Case 2:
+Subsequences are [50] and [40, 30, 10].
+The average of the first subsequence is (50)/1 = 50.
+The average of the second subsequence is (40+30+20)/3=30.
+The sum of the tow averages is 50+30=80.
+
+There are a few more ways/cases to create the subsequence. But the maximum sum of two subsequences will be 80.

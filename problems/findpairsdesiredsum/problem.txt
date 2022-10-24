@@ -1,0 +1,10 @@
+Program to Find Pairs that have Desired Sum
+
+Problem Statement:
+Consider an array of integers that may contain both positive and negative integers, called numbers. Write a program that finds all the pairs of integers whose sum is equal to a given value called the desired sum.
+
+Java Program
+Prerequisite:
+	1. Understanding of generics in Java
+	2. Understanding of ArrayLists in Java
+	3. Knowledge of classes and objects in Java

@@ -1,0 +1,11 @@
+Valid Sudoku Checker in Python
+
+Problem Statement:
+You have given sudoku as a matrix.
+
+If the below three conditions are valid then it's valid sudoku.
+	- Each row will have items from 1 to 9.
+	- Each column will have items from 1 to 9.
+	- Each 3*3 cell (9 elements) will have items from 1-9.
+
+Also, mention time and space complexity to validate sudoku.

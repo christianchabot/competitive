@@ -1,0 +1,4 @@
+
+- Think of/add useful helper macros.
+- Add functions to read/write input and output.
+

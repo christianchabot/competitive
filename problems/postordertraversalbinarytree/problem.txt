@@ -1,0 +1,14 @@
+Postorder Traversal of Binary Tree Without Recrusion (Iterative)
+
+Problem statement:
+Traversing elements in postorder traversal with recursion is easy.
+You have given a binary tree. Implement post order traversal without recrusion.
+
+Example:
+    4
+   / \
+  1   5
+ / \   \
+7   3   6
+
+The postorder traversal of the Binary Tree is 7 3 1 6 5 4

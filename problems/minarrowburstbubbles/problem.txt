@@ -1,0 +1,21 @@
+Minimum Arrows Required to Burst Balloons
+
+Problem Statement:
+Given an array A, where A[i] represents the height of the balloon from the ground. You are shooting arrows form left to right direction, once you shoot an arrow, if it hits the balloon at height x, the trajectory of the arrow decreases by 1.
+
+Find the Minimum number of arrows required to burst all the balloons.
+
+Example:
+Input = [6, 5, 1, 4, 5]
+Output = 3
+
+Explanation:
+It will require three arrows to burst all the balloons.
+	- With the first arrow, the balloons having height 6, 5, and 4 will burst.
+	- With the second arrow, the balloon having a height of 1 will burst.
+	- The third arrow will burst the balloon at a height of 5.
+
+When the arrow hits the balloon, we are updating the height of the balloon in the array as -1.
+This will help us to track the burst balloons.
+
+While traversing the array, if the valie is -1, we are skipping that balloon considering it has already burst.

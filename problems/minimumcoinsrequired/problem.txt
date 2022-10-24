@@ -1,0 +1,11 @@
+Minimum Number of Coins Required to Make Given Amount
+
+Problem Statement:
+You have been given a set of coins. Write a program to find the minimum number of coins required to match the given amount value.
+
+Example:
+You have coins 1, 5, 7, 9, 11. Calculate minimum number of coins required for any input amount 250.
+
+Example:
+Amount 6 will require 2 coins (1, 5).
+Amount 25 will require 3 coins (5, 9, 11).

@@ -1,0 +1,38 @@
+Secure My Conversation by Encryption and Decryption
+
+Person A and B use an encryptoin-based system for their conversatoin.
+Each conversation message is encrypted from the source and decrypted in the destination using a shared private positive number key known to each other.
+The algorithm is illustrated with an example.
+
+Input format with explanation:
+1. Operation (1 for Encryption and 2 for Decryption)
+2. Input message
+3. Input private key
+
+Output format with explanation:
+1. Output message
+
+Example 1:
+Input:
+
+1
+Open
+123
+
+Output:
+Oppeeen
+Here, the input message characters are duplicated based on each digit in the key.
+
+Example 2:
+Input:
+
+2
+Oppeeen
+123
+
+Output:
+
+Open
+
+Here, the input message characters are compressed vased on each digit in the key.
+The conversation message and the private key need NOT be in equal length and the encoding/decoding takes place till the end is reached either conversation message or private key while retaining the rest of the conversation message.

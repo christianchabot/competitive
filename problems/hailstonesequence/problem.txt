@@ -1,0 +1,27 @@
+Hailstone Sequence Algorithm
+
+Take a number (says 'n') as an input.
+
+Print the value of 'n'.
+
+while n != 1
+	a) Print the value of 'n'
+	b) If 'n' is odd, calculate the next number as n*3+1
+	c) if 'n' is even, calculate the next number as n/2.
+
+Example:
+
+Input: 10
+Output (Hailstone Sequence): 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
+
+Input: 17
+Output (Hailstone Sequence): 17 -> 52 -> 26 -> 13 -> 40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
+
+Problem statement:
+Write a probram that prints all hailstone sequences with starting numbers from 1 to n and prints the number that has the longest hailstone sequnece.
+You have to find the seed having the maximum length of the hailstone sequence for the hailstone sequences for all the numbers in the range of given numbers.
+
+Algorithm:
+Take two numbers as input (a, and b).
+Find a hailstone sequnece length of all the values ranging from a to b.
+Return maximum length out of all the lengths of hailstone sequences.

@@ -1,0 +1,8 @@
+Fibonacci Sequence
+
+Problem statement:
+Create a program to print the first n numbers of the Fibonacci sequence.
+Make 2 programs using memoization and the other optimized.
+
+F0 = 0, F1 = 1, and
+Fn = Fn-1 + Fn-2

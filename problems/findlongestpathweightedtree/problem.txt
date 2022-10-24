@@ -1,0 +1,26 @@
+Find Longest Path in a Weighted Tree
+
+Problem statement:
+Write a program to find the longest/maximum path in a weighted tree.
+
+What is a Weighted Tree?
+It is a tree in which every edge will be assigned with a number. It is also called edge distance between two connected nodes.
+
+Example:
+
+        A
+       / \
+      4   3
+     /     \
+    B       C
+    |      /|\
+    2     4 2 1
+    |    /  |  \
+    D   E   F   G
+            |
+            1
+            |
+            H
+
+In the above tree example: The weight of the edge connecting nodes 'A' and 'B' is 4. Similarly, the weight of the edge connecting nodes 'C' and 'F' is 4.
+The longest path in a weighted tree is 7 (4+3) from node 'A' to 'C' (A-C-E)

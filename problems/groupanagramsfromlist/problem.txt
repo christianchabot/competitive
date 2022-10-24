@@ -1,0 +1,12 @@
+Group Anagrams From Given List
+
+Problem Statement:
+
+Group Anagrams - You have given a list of words. Write a program to return a list of sets of anagrams.
+
+Args:
+words - list of words to process
+
+Example:
+Input: ['cat', 'dog', 'god']
+Output: [{'cat'}, {'dog', 'god'}]

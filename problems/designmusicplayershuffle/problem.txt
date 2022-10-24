@@ -1,0 +1,14 @@
+Design Music Player with Shuffle Feature
+
+Problem statement:
+Design and implement a music player which has a shuffle feature. Make sure shuffle doesn't repeat songs.
+
+Requirement gathering:
+Whenever you get this question in the interview, understand all the requirements. If something is not clear, ask the interviewer.
+
+Following features and requirements should be added to the music player.
+	- Shuffle song playlist. (Song should not be repeated songs. It means if the song is already played, don't consider it.)
+	- Add a song to the play song queue.
+	- Play a song from the queue.
+
+If you use any of the mobile app music players (like Spotify, Wynk, etc) you will see these basic features in the app.

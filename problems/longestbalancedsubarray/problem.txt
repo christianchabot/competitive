@@ -1,0 +1,12 @@
+Longest Balanced Substring | Maximum Length of Balanced Parentheses
+
+You have given a string that contains the curly braces (brackets), both opending and closing braces. You have to find the length of the longest balanced subarray.
+
+Example:
+Input: {}{}{
+Output:4
+
+Explanation:
+In the above example, the length of the longest subarray/substring is four ( {}{} ).
+
+There can be multiple balanced subarrays. IN that case, you have to return the length of the longest balanced (valid) subarray.

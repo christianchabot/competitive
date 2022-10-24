@@ -1,0 +1,5 @@
+Find Two Unique Numbers from Array in O(n) Time
+
+Problem Statement:
+Let's assume all numbers except two occur twice in an array. How do you get those two numbers to occur only once? For example, only two numbers, 4 and 6, in the array {2, 4, 3, 6, 3, 2, 5, 5} occur once, and the other numbers occur twice. Therefor output should be 4 and 6.
+

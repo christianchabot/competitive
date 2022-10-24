@@ -1,0 +1,14 @@
+String Permutation in Python without itertools
+
+Problem statement:
+Write a program to find all the permutations of the string in Python without itertools.
+
+What is permutation?
+A permutation is a technique that is used to determine all the strings obtained by rearranging the characters.
+
+Example:
+	- The permutations of string "ab" is ['ab', 'ba'].
+	- The permutations of string "abc" is ['abc', 'acb', 'bac', 'bca', 'cba', 'cab'].
+
+The number that can be formed from the string is !n (n factorial).
+Where, n is the length of the given string.

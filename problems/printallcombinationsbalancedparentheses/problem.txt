@@ -1,0 +1,18 @@
+Print all Combinations of Balanced Parentheses
+
+Problem statement:
+Print all the valid parentheses combinations for the given number.
+
+Examples:
+Input = 2
+Output:
+()()
+(())
+
+Input = 3
+Output:
+((()))
+(()())
+(())()
+()()))
+()()()
